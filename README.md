@@ -1,4 +1,3 @@
-Here's a concise and simple GitHub profile "About" section:
  Hi, I’m @nishantsakesh
  I’m interested in Data Science and Machine Learning
  I’m looking to collaborate on Data Analysis and AI projects
