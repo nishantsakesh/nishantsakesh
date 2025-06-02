@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @nishantsakesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Here's a concise and simple GitHub profile "About" section:
+ Hi, I’m @nishantsakesh
+ I’m interested in Data Science and Machine Learning
+ I’m looking to collaborate on Data Analysis and AI projects
+ How to reach me:
 email: nishantsakesh@gmail.com
-      instagram: @nishantsakesh
+instagram: @nishantsakesh
+linkedin: linkedin.com/in/nishantsakesh
 
 <!---
 nishantsakesh/nishantsakesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
